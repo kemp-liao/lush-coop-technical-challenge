@@ -15,7 +15,7 @@ A simple test program based on Selenium that goes through the following tests:
 
 4. Navigate to the cart page and take a screenshot saved in the TestResults folder
 
-ONLY tested with Safari
+REMARKS: Only tested with Safari
 
 
 ## How to use
