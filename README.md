@@ -29,3 +29,5 @@ REMARKS: Only tested with Safari
 4. Install mocha by 'npm intall mocha'
 
 5. Type 'npm test' to start the test
+
+6. Only tested with Safari. If you want to use Chrome, please install Chrome driver.
